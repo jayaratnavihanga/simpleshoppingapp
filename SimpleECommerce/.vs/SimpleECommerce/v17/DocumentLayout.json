@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\SimpleECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DE10C3-157E-4C4B-B575-B6A9FDD7232E}|SimpleECommerce\\SimpleECommerce.csproj|d:\\projects\\simpleecommerce\\simpleecommerce\\pages\\productdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8DE10C3-157E-4C4B-B575-B6A9FDD7232E}|SimpleECommerce\\SimpleECommerce.csproj|solutionrelative:simpleecommerce\\pages\\productdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DE10C3-157E-4C4B-B575-B6A9FDD7232E}|SimpleECommerce\\SimpleECommerce.csproj|d:\\projects\\simpleecommerce\\simpleecommerce\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8DE10C3-157E-4C4B-B575-B6A9FDD7232E}|SimpleECommerce\\SimpleECommerce.csproj|solutionrelative:simpleecommerce\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DE10C3-157E-4C4B-B575-B6A9FDD7232E}|SimpleECommerce\\SimpleECommerce.csproj|d:\\projects\\simpleecommerce\\simpleecommerce\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8DE10C3-157E-4C4B-B575-B6A9FDD7232E}|SimpleECommerce\\SimpleECommerce.csproj|solutionrelative:simpleecommerce\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DE10C3-157E-4C4B-B575-B6A9FDD7232E}|SimpleECommerce\\SimpleECommerce.csproj|d:\\projects\\simpleecommerce\\simpleecommerce\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8DE10C3-157E-4C4B-B575-B6A9FDD7232E}|SimpleECommerce\\SimpleECommerce.csproj|solutionrelative:simpleecommerce\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DE10C3-157E-4C4B-B575-B6A9FDD7232E}|SimpleECommerce\\SimpleECommerce.csproj|d:\\projects\\simpleecommerce\\simpleecommerce\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8DE10C3-157E-4C4B-B575-B6A9FDD7232E}|SimpleECommerce\\SimpleECommerce.csproj|solutionrelative:simpleecommerce\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDetails.razor",
+              "DocumentMoniker": "D:\\Projects\\SimpleECommerce\\SimpleECommerce\\Pages\\ProductDetails.razor",
+              "RelativeDocumentMoniker": "SimpleECommerce\\Pages\\ProductDetails.razor",
+              "ToolTip": "D:\\Projects\\SimpleECommerce\\SimpleECommerce\\Pages\\ProductDetails.razor",
+              "RelativeToolTip": "SimpleECommerce\\Pages\\ProductDetails.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T12:43:09.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Projects\\SimpleECommerce\\SimpleECommerce\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "SimpleECommerce\\Shared\\NavMenu.razor",
+              "ToolTip": "D:\\Projects\\SimpleECommerce\\SimpleECommerce\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "SimpleECommerce\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T12:42:57.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Projects\\SimpleECommerce\\SimpleECommerce\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "SimpleECommerce\\Shared\\MainLayout.razor",
+              "ToolTip": "D:\\Projects\\SimpleECommerce\\SimpleECommerce\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "SimpleECommerce\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T12:42:49.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Projects\\SimpleECommerce\\SimpleECommerce\\App.razor",
+              "RelativeDocumentMoniker": "SimpleECommerce\\App.razor",
+              "ToolTip": "D:\\Projects\\SimpleECommerce\\SimpleECommerce\\App.razor",
+              "RelativeToolTip": "SimpleECommerce\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T11:09:10.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\Projects\\SimpleECommerce\\SimpleECommerce\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "SimpleECommerce\\Pages\\Index.razor",
+              "ToolTip": "D:\\Projects\\SimpleECommerce\\SimpleECommerce\\Pages\\Index.razor",
+              "RelativeToolTip": "SimpleECommerce\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T11:08:52.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

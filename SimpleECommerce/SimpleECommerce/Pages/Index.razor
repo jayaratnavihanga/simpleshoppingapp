@@ -1,0 +1,43 @@
+﻿@page "/"
+
+@using SimpleECommerce.Data.Repositories
+@using SimpleECommerce.Models
+@using SimpleECommerce.Services
+@inject IProductRepository ProductRepo
+
+@inject CartService CartService
+
+<h3>Products</h3>
+
+@if (products == null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <div class="row">
+        @foreach (var product in products)
+        {
+            <div class="col-md-3 m-2 p-2 border">
+                <img src="@product.ImageUrl" width="100%" />
+                <h5>@product.Name</h5>
+                <p>$@product.Price</p>
+                <button class="btn btn-primary" @onclick="() => AddToCart(product)">Add to Cart</button>
+            </div>
+        }
+    </div>
+}
+
+@code {
+    List<Product>? products;
+
+    protected override async Task OnInitializedAsync()
+    {
+        products = await ProductRepo.GetAllAsync();
+    }
+
+    void AddToCart(Product product)
+    {
+        CartService.AddToCart(product);
+    }
+}

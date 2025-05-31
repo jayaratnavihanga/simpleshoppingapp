@@ -1,0 +1,32 @@
+﻿@inject CartService CartService
+@page "/cart"
+@using SimpleECommerce.Services
+
+<h3>Your Cart</h3>
+
+@if (!CartService.Items.Any())
+{
+    <p>Cart is empty.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr><th>Product</th><th>Qty</th><th>Price</th></tr>
+        </thead>
+        <tbody>
+            @foreach (var item in CartService.Items)
+            {
+                <tr>
+                    <td>@item.Product.Name</td>
+                    <td>@item.Quantity</td>
+                    <td>@(item.Product.Price* item.Quantity)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <p><strong>Total: </strong> $@CartService.Items.Sum(i => i.Product.Price * i.Quantity)</p>
+
+    <a class="btn btn-success" href="/checkout">Checkout</a>
+}

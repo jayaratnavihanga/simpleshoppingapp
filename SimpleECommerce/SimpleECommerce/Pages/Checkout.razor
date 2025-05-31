@@ -1,0 +1,18 @@
+﻿@using SimpleECommerce.Services
+
+@inject NavigationManager Navigation
+@inject CartService CartService
+@page "/checkout"
+
+<h3>Checkout</h3>
+
+<p>Thank you for your purchase!</p>
+<button class="btn btn-primary" @onclick="Finish">Finish</button>
+
+@code {
+    void Finish()
+    {
+        CartService.ClearCart();
+        Navigation.NavigateTo("/");
+    }
+}
